@@ -1,1 +1,1 @@
-# lunapinebooks_blockchain
+# ERC20token_for_studying
